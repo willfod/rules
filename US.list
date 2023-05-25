@@ -14,3 +14,6 @@ DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stripecdn.com
+;paypal
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-KEYWORD,paypal
